@@ -26,27 +26,27 @@ AtliQ Hardwares faced significant setbacks, particularly in Latin America, where
 Displays key financial KPIs (Net Sales, Gross Margin %, Net Profit %), a flexible Profit & Loss statement, and trend analysis with benchmarks.
 
 ### Sales View
-![Sales View Screenshot](screenshots/Sales View.png)
+
 Focuses on Net Sales and Gross Margin, highlighting customer and market performance, product sales details, and unit economics to analyze profitability drivers like discounts and COGS.
 
 ### Marketing View
-![Marketing View Screenshot](screenshots/Marketing View.png)
+
 Visualizes Net Sales, Gross Margin, and Net Profit, with a unit economics view showing the impact of Cost of Goods Sold (COGS) and operational expenses (Marketing expenses) on profitability.
 
 ### Supply Chain View
-![Supply Chain Screenshot](screenshots/Supply Chain View.png)
+
 Tracks forecast accuracy and net error over time, identifying potential out-of-stock or overstock situations for timely intervention.
 
 ### Executive View
-![Executive View Screenshot](screenshots/Executive View.png)
+
 Provides a high-level overview with key KPIs, revenue breakdown by division and channel, market share trends, and top customer/product performance.
 
 ### Support Page
-![Support Page Screenshot](screenshots/Support Page.png)
+
 Provides users with guidance and resources for navigating and understanding the dashboard.
 
 ### Information Page
-![Information Page Screenshot](screenshots/Info Page.png)
+
 Offers context and details about the data sources, calculations, and project background.
 
 ## Impact of the Dashboard
