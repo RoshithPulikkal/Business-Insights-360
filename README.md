@@ -22,8 +22,8 @@ AtliQ Hardwares faced significant setbacks, particularly in Latin America, where
 ## Dashboard Views
 
 ### Finance View
-![Finance View Screenshot](screenshots/Finance View.jpg)
-Displays key financial KPIs (Net Sales, Gross Margin %, Net Profit %), a flexible Profit & Loss statement, and trend analysis with benchmarks.
+![Finance View Screenshot](screenshots/finance_view.png)
+1Displays key financial KPIs (Net Sales, Gross Margin %, Net Profit %), a flexible Profit & Loss statement, and trend analysis with benchmarks.
 
 ### Sales View
 
